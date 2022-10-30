@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("I have fixed the issue");
         System.out.println("Updated master");
+        System.out.println("Changed file");
     }
 
 }
