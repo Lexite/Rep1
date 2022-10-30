@@ -4,6 +4,7 @@ public class Main {
         System.out.println("I have fixed the issue");
         System.out.println("Updated master");
         System.out.println("Changed file");
+        System.out.println("Changed main again");
     }
 
 }
