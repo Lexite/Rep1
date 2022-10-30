@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Changed file");
         System.out.println("Changed main again");
         System.out.println("Change something in main skeleton branch on github");
-       
+        System.out.println("Added new branch - added new line in main");
     }
 
 }
